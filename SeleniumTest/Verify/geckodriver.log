@@ -1,0 +1,168 @@
+1692941542107	geckodriver	INFO	Listening on 127.0.0.1:50551
+1692941542121	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuaBTkb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692941542733	Marionette	INFO	Marionette enabled
+1692941542785	Marionette	INFO	Listening on port 39121
+WebDriver BiDi listening on ws://127.0.0.1:39169
+Read port: 39121
+1692941542926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39169/devtools/browser/9881651f-1122-403e-9871-e022a2dd3cdf
+JavaScript warning: https://aka-cdn.adtechus.com/media/moat/adtechbrands092348fjlsmdhlwsl239fh3df/moatad.js#moatClientLevel1=5113&moatClientLevel2=374058&moatClientLevel3=0&moatClientLevel4=4830399&zMoatMaster=11137345&zMoatFlight=11170213&zMoatBanner=26888824&zURL=https&zMoatPlacementId=4830399&zMoatAdId=11170213&zMoatCreative=0&zMoatBannerID=2&zMoatCustomVisp=50&zMoatCustomVist=1000&zMoatIsAdvisGoal=0&zMoatEventUrl=https://35.ras.yahoo.com/adcount|2.0|5113.1|4830399|0|170|AdId=11170213;BnId=2;ct=2875222906;st=9359;adcid=1;itime=941544630;reqtype=5;guid=2a9kp8tiegf78;;impref=16929415442177591976;imprefseq=117132086187398403;imprefts=1692941544;adclntid=1004;spaceid=2023538075;adposition=LREC;lmsid=;revshare=lu%253A0%253Bpt%253Ahome%253Bsite%253Afp%253Bver%253Amegastrm;pvid=PVSzATEwLjIlJplHZOg86AD6MjQwMQAAAACrYA1Z;sectionid=146750051;kvsecure%2Ddarla=4%2D11%2D1%7Cysd%7C1;kvsecure=true;kvmn=y406192;kvy%2Dbucket=mimicproviderlistv2%2Dcopy%2Csend%5Fheimdall%5Fhomepage%5Fbucket%2Cseamless;kvpgcolo=gq1;kvrs=lu:site:0:pt:megastrm:fp:ver:home;kvssp=ssp;kvadtc%5Fdvmktname=unknown;kvadtc%5Fdvosplt=linux%5F%2D%5Fubuntu;kvadtc%5Fdvbrand=mozilla;kvadtc%5Fdvtype=desktop;kvadtc%5Fdvmodel=firefox%5F%2D%5Flinux;kvrepo%5Fdvosplt=linux%5F%2D%5Fubuntu;kvadtc%5Fdvosversion=UNKNOWN;kvadtc%5Fcrmcc=UNKNOWN;kvadtc%5Fcrmnc=UNKNOWN;gdpr=0;&zMoatSize=170&zMoatSubNetID=1&zMoatisSelected=0&zMoatadServer=us-pg.ras.yahoo.com&zMoatadVisServer=&zMoatSamplingRate=5&zMoatliveTestCookie=&zMoatRefSeqId=DUBAFMwIgGA&zMoatImpRefTs=1692941544&zMoatAlias=y406192&zMoatVert=&zMoatBannerInfo=498042364, line 265: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aka-cdn.adtechus.com/media/moat/adtechbrands092348fjlsmdhlwsl239fh3df/moatad.js#moatClientLevel1=5113&moatClientLevel2=374058&moatClientLevel3=0&moatClientLevel4=4830441&zMoatMaster=11137345&zMoatFlight=11170160&zMoatBanner=26888929&zURL=https&zMoatPlacementId=4830441&zMoatAdId=11170160&zMoatCreative=0&zMoatBannerID=2&zMoatCustomVisp=50&zMoatCustomVist=1000&zMoatIsAdvisGoal=0&zMoatEventUrl=https://35.ras.yahoo.com/adcount|2.0|5113.1|4830441|0|225|AdId=11170160;BnId=2;ct=2875222906;st=7006;adcid=1;itime=941544629;reqtype=5;guid=2a9kp8tiegf78;;impref=16929415442177591967;imprefseq=117132086187398400;imprefts=1692941544;adclntid=1004;spaceid=2023538075;adposition=LDRB;lmsid=;revshare=lu%253A0%253Bpt%253Ahome%253Bsite%253Afp%253Bver%253Amegastrm;pvid=PVSzATEwLjIlJplHZOg86AD6MjQwMQAAAACrYA1Z;sectionid=146750051;kvsecure%2Ddarla=4%2D11%2D1%7Cysd%7C1;kvsecure=true;kvmn=y406191;kvy%2Dbucket=mimicproviderlistv2%2Dcopy%2Csend%5Fheimdall%5Fhomepage%5Fbucket%2Cseamless;kvpgcolo=gq1;kvrs=lu:site:0:pt:megastrm:fp:ver:home;kvssp=ssp;kvadtc%5Fdvmktname=unknown;kvadtc%5Fdvosplt=linux%5F%2D%5Fubuntu;kvadtc%5Fdvbrand=mozilla;kvadtc%5Fdvtype=desktop;kvadtc%5Fdvmodel=firefox%5F%2D%5Flinux;kvrepo%5Fdvosplt=linux%5F%2D%5Fubuntu;kvadtc%5Fdvosversion=UNKNOWN;kvadtc%5Fcrmcc=UNKNOWN;kvadtc%5Fcrmnc=UNKNOWN;gdpr=0;&zMoatSize=225&zMoatSubNetID=1&zMoatisSelected=0&zMoatadServer=us-pg.ras.yahoo.com&zMoatadVisServer=&zMoatSamplingRate=5&zMoatliveTestCookie=&zMoatRefSeqId=AUBAFMwIgGA&zMoatImpRefTs=1692941544&zMoatAlias=y406191&zMoatVert=&zMoatBannerInfo=498042362, line 265: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692941546930	Marionette	INFO	Stopped listening on port 39121
+JavaScript warning: https://s.yimg.com/rq/darla/4-11-1/js/sfext-min.js, line 1: Script terminated by timeout at:
+s@https://s.yimg.com/rq/darla/4-11-1/js/sfext-min.js:1:1523
+it@https://s.yimg.com/rq/darla/4-11-1/js/sfext-min.js:2:16297
+226/u.prototype.qi@https://cdn.js7k.com/ix/talon-1.0.40.js:1:54305
+820/u.prototype.cn@https://cdn.js7k.com/ix/talon-1.0.40.js:1:53144
+820/u.prototype.cn/this.timeout<@https://cdn.js7k.com/ix/talon-1.0.40.js:1:53299
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.yahoo.com."
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1692941568713	geckodriver	INFO	Listening on 127.0.0.1:58491
+1692941568717	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "32843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3wL8yg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692941569339	Marionette	INFO	Marionette enabled
+1692941569388	Marionette	INFO	Listening on port 37185
+WebDriver BiDi listening on ws://127.0.0.1:32843
+Read port: 37185
+1692941569522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:32843/devtools/browser/804491f8-0f2c-43bf-ae96-ad2a176fd195
+1692941572760	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://aka-cdn.adtechus.com/media/moat/adtechbrands092348fjlsmdhlwsl239fh3df/moatad.js#moatClientLevel1=5113&moatClientLevel2=374058&moatClientLevel3=0&moatClientLevel4=4830399&zMoatMaster=11137345&zMoatFlight=11170213&zMoatBanner=26888824&zURL=https&zMoatPlacementId=4830399&zMoatAdId=11170213&zMoatCreative=0&zMoatBannerID=2&zMoatCustomVisp=50&zMoatCustomVist=1000&zMoatIsAdvisGoal=0&zMoatEventUrl=https://36.ras.yahoo.com/adcount|2.0|5113.1|4830399|0|170|AdId=11170213;BnId=2;ct=2901782206;st=10248;adcid=1;itime=941570175;reqtype=5;guid=avkuth5iegf82;;impref=16929415702186046371;imprefseq=26216772516451647;imprefts=1692941570;adclntid=1004;spaceid=2023538075;adposition=LREC;lmsid=;revshare=lu%253A0%253Bpt%253Ahome%253Bsite%253Afp%253Bver%253Amegastrm;pvid=ERu17DEwLjKv092JZOg9AidHMjQwMQAAAACs9Vmn;sectionid=146750051;kvsecure%2Ddarla=4%2D11%2D1%7Cysd%7C1;kvsecure=true;kvmn=y406192;kvy%2Dbucket=mimicproviderlistv2%2Dcopy%2Cdrop%5Fheimdall%5Fhomepage%5Fcontrol%5Fbucket%2Cus%2Dhneld%2Dseamless%2Dalgo%2Dtest3%2Cseamless;kvpgcolo=gq1;kvrs=lu:site:0:pt:megastrm:fp:ver:home;kvssp=ssp;kvadtc%5Fdvmktname=unknown;kvadtc%5Fdvosplt=linux%5F%2D%5Fubuntu;kvadtc%5Fdvbrand=mozilla;kvadtc%5Fdvtype=desktop;kvadtc%5Fdvmodel=firefox%5F%2D%5Flinux;kvrepo%5Fdvosplt=linux%5F%2D%5Fubuntu;kvadtc%5Fdvosversion=UNKNOWN;kvadtc%5Fcrmcc=UNKNOWN;kvadtc%5Fcrmnc=UNKNOWN;gdpr=0;&zMoatSize=170&zMoatSubNetID=1&zMoatisSelected=0&zMoatadServer=us-pg.ras.yahoo.com&zMoatadVisServer=&zMoatSamplingRate=5&zMoatliveTestCookie=&zMoatRefSeqId=/UBAFQAJdBA&zMoatImpRefTs=1692941570&zMoatAlias=y406192&zMoatVert=&zMoatBannerInfo=498042364, line 265: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aka-cdn.adtechus.com/media/moat/adtechbrands092348fjlsmdhlwsl239fh3df/moatad.js#moatClientLevel1=5113&moatClientLevel2=374058&moatClientLevel3=0&moatClientLevel4=4830441&zMoatMaster=11137345&zMoatFlight=11170160&zMoatBanner=26888929&zURL=https&zMoatPlacementId=4830441&zMoatAdId=11170160&zMoatCreative=0&zMoatBannerID=2&zMoatCustomVisp=50&zMoatCustomVist=1000&zMoatIsAdvisGoal=0&zMoatEventUrl=https://36.ras.yahoo.com/adcount|2.0|5113.1|4830441|0|225|AdId=11170160;BnId=2;ct=2901782206;st=7920;adcid=1;itime=941570174;reqtype=5;guid=avkuth5iegf82;;impref=16929415702186046364;imprefseq=26216772516451644;imprefts=1692941570;adclntid=1004;spaceid=2023538075;adposition=LDRB;lmsid=;revshare=lu%253A0%253Bpt%253Ahome%253Bsite%253Afp%253Bver%253Amegastrm;pvid=ERu17DEwLjKv092JZOg9AidHMjQwMQAAAACs9Vmn;sectionid=146750051;kvsecure%2Ddarla=4%2D11%2D1%7Cysd%7C1;kvsecure=true;kvmn=y406191;kvy%2Dbucket=mimicproviderlistv2%2Dcopy%2Cdrop%5Fheimdall%5Fhomepage%5Fcontrol%5Fbucket%2Cus%2Dhneld%2Dseamless%2Dalgo%2Dtest3%2Cseamless;kvpgcolo=gq1;kvrs=lu:site:0:pt:megastrm:fp:ver:home;kvssp=ssp;kvadtc%5Fdvmktname=unknown;kvadtc%5Fdvosplt=linux%5F%2D%5Fubuntu;kvadtc%5Fdvbrand=mozilla;kvadtc%5Fdvtype=desktop;kvadtc%5Fdvmodel=firefox%5F%2D%5Flinux;kvrepo%5Fdvosplt=linux%5F%2D%5Fubuntu;kvadtc%5Fdvosversion=UNKNOWN;kvadtc%5Fcrmcc=UNKNOWN;kvadtc%5Fcrmnc=UNKNOWN;gdpr=0;&zMoatSize=225&zMoatSubNetID=1&zMoatisSelected=0&zMoatadServer=us-pg.ras.yahoo.com&zMoatadVisServer=&zMoatSamplingRate=5&zMoatliveTestCookie=&zMoatRefSeqId=8UBAFQAJdBA&zMoatImpRefTs=1692941570&zMoatAlias=y406191&zMoatVert=&zMoatBannerInfo=498042362, line 265: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692941573524	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1692941573577	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.yahoo.com."
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: Script terminated by timeout at:
+908/s.prototype.Lt@https://cdn.js7k.com/ix/talon-1.0.40.js:1:18076
+472/a.Mn@https://cdn.js7k.com/ix/talon-1.0.40.js:1:65671
+472/a.prototype.pn@https://cdn.js7k.com/ix/talon-1.0.40.js:1:66495
+a@https://cdn.js7k.com/ix/talon-1.0.40.js:1:66875
+554/A.prototype.bi@https://cdn.js7k.com/ix/talon-1.0.40.js:1:25589
+554/A.prototype.pi@https://cdn.js7k.com/ix/talon-1.0.40.js:1:25991
+554/A/this.unloadHandler@https://cdn.js7k.com/ix/talon-1.0.40.js:1:24863
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1692941578865	Marionette	INFO	Stopped listening on port 37185
+1692941766848	geckodriver	INFO	Listening on 127.0.0.1:40303
+1692941766852	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8JCxU2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692941767437	Marionette	INFO	Marionette enabled
+1692941767485	Marionette	INFO	Listening on port 36077
+WebDriver BiDi listening on ws://127.0.0.1:42429
+Read port: 36077
+1692941767625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42429/devtools/browser/329a57e8-38e2-4223-bb7d-fd085ca8ec4c
+1692941771040	Marionette	INFO	Stopped listening on port 36077
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1692941806028	geckodriver	INFO	Listening on 127.0.0.1:53101
+1692941806031	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaSi2KH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692941806627	Marionette	INFO	Marionette enabled
+1692941806677	Marionette	INFO	Listening on port 46179
+WebDriver BiDi listening on ws://127.0.0.1:38943
+Read port: 46179
+1692941806817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38943/devtools/browser/d5e921b1-42d2-4e20-b388-b604e9a06513
+1692941812906	Marionette	INFO	Stopped listening on port 46179
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1692941848400	geckodriver	INFO	Listening on 127.0.0.1:57809
+1692941848404	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej74BWf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692941849018	Marionette	INFO	Marionette enabled
+1692941849067	Marionette	INFO	Listening on port 44773
+WebDriver BiDi listening on ws://127.0.0.1:43097
+Read port: 44773
+1692941849200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43097/devtools/browser/c11967d1-2fa3-413f-b349-4ab165ed4533
+1692941857903	Marionette	INFO	Stopped listening on port 44773
+1692942077951	geckodriver	INFO	Listening on 127.0.0.1:47937
+1692942077956	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKRcVCy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692942078563	Marionette	INFO	Marionette enabled
+1692942078610	Marionette	INFO	Listening on port 45975
+WebDriver BiDi listening on ws://127.0.0.1:59037
+Read port: 45975
+1692942078741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59037/devtools/browser/7e747dde-ee0c-4b66-9baf-14db7a73ed50
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1692942080834	Marionette	INFO	Stopped listening on port 45975
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 50: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693056183873	geckodriver	INFO	Listening on 127.0.0.1:41751
+1693056184390	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerZmGxz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693056185053	Marionette	INFO	Marionette enabled
+1693056185107	Marionette	INFO	Listening on port 35397
+WebDriver BiDi listening on ws://127.0.0.1:47695
+Read port: 35397
+1693056185243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47695/devtools/browser/309a2d18-cb63-43d0-bb2e-05673cc67eea
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1693056187438	Marionette	INFO	Stopped listening on port 35397
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1693234989801	geckodriver	INFO	Listening on 127.0.0.1:49061
+1693234989804	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDJH3uq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693234990398	Marionette	INFO	Marionette enabled
+1693234990446	Marionette	INFO	Listening on port 37973
+WebDriver BiDi listening on ws://127.0.0.1:44119
+Read port: 37973
+1693234990573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44119/devtools/browser/c7f17ecb-3148-4a83-bb99-5a3cc09b582e
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1693234993026	Marionette	INFO	Stopped listening on port 37973
